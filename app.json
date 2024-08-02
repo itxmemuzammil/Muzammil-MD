@@ -1,15 +1,15 @@
 {
-  "name": "hitdev-md@1.0",
-  "description": "I am HITDEV-MD Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/HITDeveloper2023",
-  "logo": "https://telegra.ph/file/09bb04e12ce3828e9cd2e.jpg",
-  "keywords": ["whatsappbot", "hitdevMd", "hitdev Md bot", "HITDEV-MD", "HitdevMdWhatsaooBot", "HitdevWaBot","HitdevMD","HITDEV MD Whatsapp Bot","multi device"],
-  "success_url": "/hitdev/",
+  "name": "muzammil-md@1.1",
+  "description": "I am Muzammil-MD Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/HITDeveloper2023",
+  "logo": "https://telegra.ph/file/a6c7556a03ceb8ed447d8.jpg",
+  "keywords": ["whatsappbot", "Muzammil Md", "Muzammil Md bot", "Muzammil-MD", "Muzammil MdWhatsaooBot", "Muzammil WaBot","Muzammil MD","Muzammil MD Whatsapp Bot","multi device"],
+  "success_url": "/muzammil/",
   "app_url": "/qr/",
   
   "env": {
     "OWNER_NAME": {
       "description": "Name for Bot Owner",    
-      "value": "Mr Alberno",
+      "value": "Itx Muzammil",
       "required" :true
     },   
      
@@ -27,17 +27,17 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required" :false,    
-      "value": "ʜɪᴛᴅᴇᴠ-ᴍᴅ"
+      "value": "ᴍᴜᴢᴀᴍᴍɪʟ-ᴍᴅ"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
       "required" :false,    
-      "value": "America/Port-au-Prince"
+      "value": "Pakistan/Islamabad"
     },  
     "FLUSH": {
       "description": " Make it 'true' if bot connected but not responed (After deployement!)",
       "required" :false,    
-      "value": "false"
+      "value": "true"
     },     
     "READ_COMMAND": {
       "description": " Read bot cmds",
@@ -67,7 +67,7 @@
     "WAPRESENCE": {
       "description": "Fill the value: 'unavailable'(for nothing) | 'available'(for alwaysonline) | 'composing'(for typing) | 'recording' | 'paused' ",
       "required" :false,
-      "value": "unavailable"
+      "value": "available"
     },
     "AUTO_READ_STATUS": {
       "description": "Fill the value true if you want bot view your Statuses.",
@@ -95,7 +95,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "50944727644"
+      "value": "258867532400"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
@@ -119,11 +119,11 @@
     },
     "MODE": {
       "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
-      "value": "private"
+      "value": " "
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "HITDEV MD",
+      "value": "Muzammil MD",
       "required": false 
     },
     "PACK_AUTHER": {
