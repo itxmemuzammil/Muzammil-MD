@@ -10,11 +10,11 @@
 
 <b><details><summary>𝐎𝐖𝐍𝐄𝐑</summary><br>
 
-<a href='https://wa.link/mja069' target="_blank"><img alt='Whatsapp Contect' src='https://img.shields.io/badge/Whatsapp_Contect-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=Blue'/></a>
+<a href='https://wa.link/mja069' target="_blank"><img alt='Whatsapp Contect' src='https://img.shields.io/badge/Whatsapp_Contect-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
 
 <a href='https://github.com/itxmemuzammil/Muzammil-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/YouTube Channel-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=red&color=red'/></a>
 
-<a href='https://www.tiktok.com/@muzammil_haqnawaz?_t=8oXEgl6JuWD&_r=1' target="_blank"><img alt='Tiktok' src='https://img.shields.io/badge/Follow TikTok-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=white&color=black'/></a>
+<a href='https://www.tiktok.com/@muzammil_haqnawaz?_t=8oXEgl6JuWD&_r=1' target="_blank"><img alt='Tiktok' src='https://img.shields.io/badge/Follow ON TikTok-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=white&color=black'/></a>
 
 
 </details>
