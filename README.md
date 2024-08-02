@@ -9,7 +9,11 @@
 <b><details><summary>𝐌𝐄𝐍𝐔</summary><br>
 
 <b><details><summary>𝐎𝐖𝐍𝐄𝐑</summary><br>
-Hehe
+
+<a href='https://wa.link/mja069' target="_blank"><img alt='Whatsapp Contact' src='https://img.shields.io/badge/Whatsapp Contact-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=Green'/></a>
+
+
+
 </details>
 
 <b><details><summary>𝐅𝐎𝐑𝐊 𝐓𝐇𝐈𝐒 𝐑𝐄𝐏𝐎</summary><br>
