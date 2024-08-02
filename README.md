@@ -8,7 +8,7 @@
 
 <b><details><summary>𝐌𝐄𝐍𝐔</summary><br>
 <a href='https://wa.link/mja069' target="_blank"><img alt='Whatsapp Contect' 
-src='https://img.shields.io/badge/𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐓𝐨 𝐌𝐮𝐳𝐚𝐦𝐦𝐢𝐥 - 𝐌𝐃 𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩 𝐁𝐨𝐭-100000?style=for-the-badge&logo=scan&logoColor=red&labelColor=white&color=yellow'/></a>
+src='https://img.shields.io/badge/𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐓𝐨 𝐌𝐮𝐳𝐚𝐦𝐦𝐢𝐥 - 𝐌𝐃 𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩 𝐁𝐨𝐭-100000000?style=for-the-badge&logo=scan&logoColor=red&labelColor=white&color=yellow'/></a>
 
 <b><details><summary>𝐎𝐖𝐍𝐄𝐑</summary><br>
 
