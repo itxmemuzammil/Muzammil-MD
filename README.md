@@ -6,11 +6,11 @@
   </a>
 </p>
 
-<a href="https://github.com/Itxmemuzammil"><img title="Creator" src="https://img.shields.io/badge/Creator-Mrnima-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Itxmemuzammil"><img title="Creator" src="https://img.shields.io/badge/Creator-Muzammil-red.svg?style=for-the-badge&logo=github"></a>
 <br>
 <a href="https://github.com/itxmemuzammil?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Itxmemuzammil?color=green&style=flat-square"></a>
 <a href="https://github.com/Itxmemuzammil/Muzammil-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Itxmemuzammil/Muzammil-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/Itxmemuzammil/Muzammil-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/darkmakerofc/ZUSYCO-MD?color=yellow&style=flat-square"></a>
+<a href="https://github.com/Itxmemuzammil/Muzammil-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Itxmemuzammil/Muzammil-MD?color=yellow&style=flat-square"></a>
 <br><br>
 </div>
 <div align= "left">
