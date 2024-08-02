@@ -1,9 +1,9 @@
 
 
 /**
- * Create By @HITDeveloper2023
- * Contact - https://wa.me/50944727644
- * Follow https://github.com/HITDeveloper2023
+ * Create By @itxmemuzammil
+ * Contact - https://wa.me/258867532400
+ * Follow https://github.com
  */
 
  
