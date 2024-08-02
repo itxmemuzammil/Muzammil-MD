@@ -7,18 +7,6 @@
 </p>
 
 
-
-<a href="https://github.com/Itxmemuzammil"><img title="Creator" src="https://img.shields.io/badge/Creator-Muzammil-red.svg?style=for-the-badge&logo=github"></a>
-<br>
-<a href="https://github.com/itxmemuzammil?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Itxmemuzammil?color=green&style=flat-square"></a>
-<a href="https://github.com/Itxmemuzammil/Muzammil-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Itxmemuzammil/Muzammil-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/Itxmemuzammil/Muzammil-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Itxmemuzammil/Muzammil-MD?color=yellow&style=flat-square"></a>
-<br><br>
-</div>
-<div align= "left">
-
-
-
 <b><details><summary>𝐌𝐄𝐍𝐔</summary><br>
 
 ![Venocyber tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝐌𝐮𝐳𝐚𝐦𝐦𝐢𝐥+-+𝐌𝐃)
