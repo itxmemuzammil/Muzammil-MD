@@ -16,6 +16,8 @@
 
 <a href='https://wa.link/3fyho7' target="_blank"><img alt='For Help' src='https://img.shields.io/badge/For_Help-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=green'/></a>
 
+</details>
+
 <b><details><summary>𝐒𝐄𝐀𝐒𝐈𝐎𝐍 𝐈𝐃</summary><br>
 Hi
 
