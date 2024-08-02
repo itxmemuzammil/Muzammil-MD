@@ -7,7 +7,7 @@
 </p>
 
 <b><details><summary>𝐌𝐄𝐍𝐔</summary><br>
-
+𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐓𝐨 𝐌𝐮𝐳𝐚𝐦𝐦𝐢𝐥 - 𝐌𝐃 𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩 𝐁𝐨𝐭
 <b><details><summary>𝐎𝐖𝐍𝐄𝐑</summary><br>
 
 <a href='https://wa.link/mja069' target="_blank"><img alt='Whatsapp Contect' src='https://img.shields.io/badge/Whatsapp_Contect-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=green&color=green'/></a>
@@ -18,7 +18,7 @@
 
 <a href='https://www.instagram.com/muzammilhaqnawaz01?igsh=MTJ5NG1rYnltbmdsNg==' target="_blank"><img alt='Tiktok' src='https://img.shields.io/badge/Follow ON Instagram-100000?style=for-the-badge&logo=scan&logoColor=red&labelColor=white&color=red'/></a>
 
-<a href='https://github.com/itxmemuzammil/Muzammil-MD/fork' target="_blank"><img alt='QR Coad' src='https://img.shields.io/badge/Facebook Profile-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
+<a href='https://www.facebook.com/muhammadmuzammilhaqnawazarain?mibextid=ZbWKwL' target="_blank"><img alt='QR Coad' src='https://img.shields.io/badge/Facebook Profile-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
 
 </details>
 
