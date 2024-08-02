@@ -19,4 +19,4 @@
 
 <a href='https://github.com/itxmemuzammil/Muzammil-MD/fork' target="_blank"><img alt='QR Coad' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=red'/></a>
 
-<a href='https://github.com/itxmemuzammil/Muzammil-MD/fork' target="_blank"><img alt='For Help' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=white'/></a>
+<a href='https://github.com/itxmemuzammil/Muzammil-MD/fork' target="_blank"><img alt='For Help' src='https://img.shields.io/badge/For_Help-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=green'/></a>
