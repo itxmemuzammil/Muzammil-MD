@@ -16,6 +16,8 @@
 
 <a href='https://www.tiktok.com/@muzammil_haqnawaz?_t=8oXEgl6JuWD&_r=1' target="_blank"><img alt='Tiktok' src='https://img.shields.io/badge/Follow ON TikTok-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=white&color=black'/></a>
 
+<a href='https://www.instagram.com/muzammilhaqnawaz01?igsh=MTJ5NG1rYnltbmdsNg==' target="_blank"><img alt='Tiktok' src='https://img.shields.io/badge/Follow ON Instagram-100000?style=for-the-badge&logo=scan&logoColor=red&labelColor=white&color=red'/></a>
+
 
 </details>
 
