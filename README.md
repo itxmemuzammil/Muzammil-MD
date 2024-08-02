@@ -54,9 +54,6 @@ Hehe
 
 </details>
 
-src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-[![Venocyber tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝐌𝐮𝐳𝐚𝐦𝐦𝐢𝐥+-+𝐌𝐃+𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩+𝐁𝐨𝐭+💕;please!!;read+carefully+this+document;we+are+not+responsible+for+any;faults+or+mistakes+done;by+misbehaving+this+app+😕🙃)](https://github.com/Kingjux)
-<a><img 
+[![Venocyber tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝐌𝐮𝐳𝐚𝐦𝐦𝐢𝐥+-+𝐌𝐃)](https://github.com/Kingjux)
 
 
