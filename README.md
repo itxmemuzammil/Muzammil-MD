@@ -21,16 +21,13 @@
 
 <b><details><summary>𝐒𝐄𝐀𝐒𝐈𝐎𝐍 𝐈𝐃</summary><br>
 
-1. How TO Get Session ID- [Click here](https://github.com/itxmemuzammil/Muzammil-MD/fork)
-
 <a href='https://github.com/itxmemuzammil/Muzammil-MD/fork' target="_blank"><img alt='Pair Coad' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=red'/></a>
 
 <a href='https://github.com/itxmemuzammil/Muzammil-MD/fork' target="_blank"><img alt='QR Coad' src='https://img.shields.io/badge/Pair_Coad-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=red'/></a>
 
 <a href='https://wa.link/rly9hl' target="_blank"><img alt='For Help' src='https://img.shields.io/badge/For_Help-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=green'/></a>
 
-
-2.𝗗𝗲𝗽𝗼𝗹𝘆𝗺𝗲𝗻𝘁 𝗦𝗲𝗰𝘁𝗶𝗼𝗻
+How TO Get Session ID- [Click here](https://github.com/itxmemuzammil/Muzammil-MD/fork) Toutril Video
 
 </details>
 
