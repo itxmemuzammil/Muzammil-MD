@@ -33,7 +33,7 @@
 
 <b><details><summary>𝐒𝐄𝐀𝐒𝐈𝐎𝐍 𝐈𝐃</summary><br>
 
-<a href='https://github.com/itxmemuzammil/Muzammil-MD/fork' target="_blank"><img alt='Pair Coad' src='https://img.shields.io/badge/QR_Coad-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=red'/></a>
+<a href='https://seasonidi-da5b18250d03.herokuapp.com/wasiqr' target="_blank"><img alt='Pair Coad' src='https://img.shields.io/badge/QR_Coad-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=red'/></a>
 
 <a href='https://seasonidi-da5b18250d03.herokuapp.com/pair' target="_blank"><img alt='QR Coad' src='https://img.shields.io/badge/Pair_Coad-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=red'/></a>
 
