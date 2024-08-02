@@ -8,9 +8,6 @@
 
 #### 𝐒𝐄𝐓𝐔𝐏
 
-<b><details><summary><h1 align="center">Muzammil MD V1.1</h1>
-  </a>
-</p></summary><br>
 
 1.𝗙𝗼𝗿𝗸 𝗧𝗵𝗶𝘀 𝗥𝗲𝗽𝗼
    
