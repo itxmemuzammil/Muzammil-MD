@@ -1,14 +1,16 @@
 <p align="center">  
   <a href="https://whatsapp.com/channel/0029VajzERVFy72FxXdllv2y<p align="center">  
   <a href="https://whatsapp.com/channel/0029VajzERVFy72FxXdllv2y">
-    <img alt="wasi" height="300" src="https://a.uguu.se/iWvQeOJU.mp4">
+    <img alt="wasi" height="300" src="https://telegra.ph/file/546bf9a6c193ec57590b5.jpg">
     <h1 align="center">Muzammil MD V1.1</h1>
   </a>
 </p>
 
 #### 𝐒𝐄𝐓𝐔𝐏
 
-<b><details><summary>Sttup</summary><br>
+<b><details><summary><h1 align="center">Muzammil MD V1.1</h1>
+  </a>
+</p></summary><br>
 
 1.𝗙𝗼𝗿𝗸 𝗧𝗵𝗶𝘀 𝗥𝗲𝗽𝗼
    
