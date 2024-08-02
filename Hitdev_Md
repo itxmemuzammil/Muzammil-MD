@@ -9,10 +9,10 @@
 #     𝗠𝗨𝗟𝗧𝗜𝗗𝗘𝗩𝗜𝗖𝗘 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗨𝗦𝗘𝗥 𝗕𝗢𝗧                                    #
 #========================================================================#
 # 
-#    * @project_name : HITDEV-MD
-#    * @author : @HITDeveloper2023
-#    * @youtube : https://www.youtube.com/c/@HITDeveloper2023
-#    * @description : HITDEV-MD ,A Multi-functional whatsapp bot md.
+#    * @project_name : Muzammil MD 
+#    * @author : @itxmemuzammil
+#    * @youtube : https://www.youtube.com
+#    * @description : Muzammil MD,A Multi-functional whatsapp bot md.
 #    * @version 1.0
 # 
 # Don't change this [ /HITDeveloper2023/ ] name!
@@ -22,8 +22,8 @@
  
 
 FROM quay.io/hitdeveloper/hitdev-v1
-RUN git clone https://github.com/HITDeveloper2023/HITDEV-MD /root/Hidtev
-WORKDIR /root/Hitdev
+RUN git clone https://github.com/itxmemuzammil/Muzammil-MD /root/itxmemuzammil
+WORKDIR /root/itxmemuzammil
 RUN npm install
 EXPOSE 8000
 CMD ["npm","start" ] 
