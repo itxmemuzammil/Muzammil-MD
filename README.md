@@ -6,7 +6,11 @@
   </a>
 </p>
 
-<b><details><summary>𝗦𝗢𝗖𝗜𝗔𝗟 𝗧𝗬𝗣𝗘𝗦</summary><br>
+<b><details><summary>𝐌𝐄𝐍𝐔</summary><br>
+𝐇𝐢
+<b><details><summary>𝐎𝐖𝐍𝐄𝐑</summary><br>
+𝐇𝐢
+<b><details><summary>𝐒𝐄𝐀𝐒𝐈𝐎𝐍 𝐈𝐃</summary><br>
 
 1.𝗙𝗼𝗿𝗸 𝗧𝗵𝗶𝘀 𝗥𝗲𝗽𝗼
    
