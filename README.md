@@ -33,7 +33,7 @@
 
 <b><details><summary>𝐒𝐄𝐀𝐒𝐈𝐎𝐍 𝐈𝐃</summary><br>
 
-<a href='https://github.com/itxmemuzammil/Muzammil-MD/fork' target="_blank"><img alt='Pair Coad' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=red'/></a>
+<a href='https://github.com/itxmemuzammil/Muzammil-MD/fork' target="_blank"><img alt='Pair Coad' src='https://img.shields.io/badge/QR_Coad-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=red'/></a>
 
 <a href='https://github.com/itxmemuzammil/Muzammil-MD/fork' target="_blank"><img alt='QR Coad' src='https://img.shields.io/badge/Pair_Coad-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=red'/></a>
 
