@@ -13,6 +13,10 @@
 <a href='https://github.com/itxmemuzammil/Muzammil-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=red'/></a>
 
 2.𝐆𝐄𝐓 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐈𝐃 𝐅𝐑𝐎𝐌 𝐒𝐄𝐑𝐕𝐄𝐑 1
- 1. How TO Get Session IDI- [Click here](https://github.com/itxmemuzammil/Muzammil-MD/fork)
+ 1. How TO Get Session ID- [Click here](https://github.com/itxmemuzammil/Muzammil-MD/fork)
 
-<a href='https://github.com/itxmemuzammil/Muzammil-MD/fork' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=red'/></a>
+<a href='https://github.com/itxmemuzammil/Muzammil-MD/fork' target="_blank"><img alt='Pair Coad' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=red'/></a>
+
+<a href='https://github.com/itxmemuzammil/Muzammil-MD/fork' target="_blank"><img alt='QR Coad' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=red'/></a>
+
+<a href='https://github.com/itxmemuzammil/Muzammil-MD/fork' target="_blank"><img alt='For Help' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=red'/></a>
