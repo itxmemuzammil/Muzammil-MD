@@ -7,10 +7,17 @@
 </p>
 
 <b><details><summary>𝐌𝐄𝐍𝐔</summary><br>
-𝐇𝐢
+
 <b><details><summary>𝐎𝐖𝐍𝐄𝐑</summary><br>
 𝐇𝐢
+
+<b><details><summary>𝗙𝗼𝗿𝗸 𝗧𝗵𝗶𝘀 𝗥𝗲𝗽𝗼</summary><br>
+<a href='https://github.com/itxmemuzammil/Muzammil-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=red'/></a>
+
+<a href='https://wa.link/3fyho7' target="_blank"><img alt='For Help' src='https://img.shields.io/badge/For_Help-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=green'/></a>
+
 <b><details><summary>𝐒𝐄𝐀𝐒𝐈𝐎𝐍 𝐈𝐃</summary><br>
+Hi
 
 1.𝗙𝗼𝗿𝗸 𝗧𝗵𝗶𝘀 𝗥𝗲𝗽𝗼
    
