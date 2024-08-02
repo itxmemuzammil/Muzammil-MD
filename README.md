@@ -10,9 +10,7 @@
 
 <b><details><summary>𝐎𝐖𝐍𝐄𝐑</summary><br>
 
-<a href='https://wa.link/mja069' target="_blank"><img alt='Whatsapp Contact' src='https://img.shields.io/badge/Whatsapp Contact-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=Green'/></a>
-
-
+<a href='https://wa.link/mja069' target="_blank"><img alt='Whatsapp Contect' src='https://img.shields.io/badge/Whatsapp_Contect-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=Blue'/></a>
 
 </details>
 
