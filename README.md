@@ -44,7 +44,9 @@ How TO Get Session ID- [Watch Video](😀🌞) Toutril Video
 </details>
 
 <b><details><summary>𝐃𝐄𝐏𝐎𝐋𝐘𝐌𝐄𝐍𝐓 𝐒𝐄𝐂𝐓𝐈𝐎𝐍</summary><br>
-Hehe
+
+<a href="https://dashboard.heroku.com/new?template=https://github.com/itxmemuzammil/Muzammil-MD"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
+
 </details>
 
 <b><details><summary>𝐇𝐄𝐋𝐏 𝐒𝐄𝐂𝐓𝐈𝐎𝐍</summary><br>
@@ -53,4 +55,3 @@ Hehe
 
 </details>
 
-<a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fkingjux%2Fvenocyber-md"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
