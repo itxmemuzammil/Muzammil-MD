@@ -12,7 +12,7 @@ let options = {
   'bot_': "temp JSON DEFAULT '{}' ", 
   "sck1":"rank JSON DEFAULT '{}' ",
   "sck":"disables TEXT[] DEFAULT ARRAY[]::TEXT[] ",
-  "tempdb":"creator TEXT DEFAULT 'Hitdev-SER'"
+  "tempdb":"creator TEXT DEFAULT 'Muzammil-SER'"
 },optJson = {'bot_':{},"sck1":{rank:{} },"sck": {},"tempdb":{}}
 
 
