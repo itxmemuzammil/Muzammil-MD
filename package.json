@@ -5,10 +5,10 @@
    "main": "index.js",
    "type": "commonjs",
    "scripts": {
-      "run": "pm2 start . --deep-monitoring --attach --name Hitdev || node .",
-      "hitdev": "pm2 start . --deep-monitoring --attach --name Hitdev || node .",
-      "start": "pm2 start . --attach --name Hitdev",
-      "stop": "pm2 stop Hitdev",
+      "run": "pm2 start . --deep-monitoring --attach --name Muzammil || node .",
+      "hitdev": "pm2 start . --deep-monitoring --attach --name Muzammil || node .",
+      "start": "pm2 start . --attach --name Muzammil",
+      "stop": "pm2 stop Muzammil",
       "old-heroku-postbuild": "git clone https://github.com/itxmemuzammil/Muzammil-MD.git temp && mv temp/.git .git && rm -rf temp && npx puppeteer@latest install  --y",
       "fis-heroku-postbuild": "git clone https://github.com/itxmemuzammil/Muzammil-MD.git temp1 && rsync -av temp1/* ./ && rsync -av temp1/.* ./ && rm -rf temp1 && npm i && npx puppeteer@latest install",
       "dbs--postinstall": "npx puppeteer@latest install --y"
