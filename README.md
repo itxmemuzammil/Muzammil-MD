@@ -8,6 +8,8 @@
 
 #### 𝐒𝐄𝐓𝐔𝐏
 
+<b><details><summary>Sttup</summary><br>
+
 1.𝗙𝗼𝗿𝗸 𝗧𝗵𝗶𝘀 𝗥𝗲𝗽𝗼
    
 <a href='https://github.com/itxmemuzammil/Muzammil-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=red'/></a>
@@ -25,12 +27,6 @@
 <a href='https://wa.link/rly9hl' target="_blank"><img alt='For Help' src='https://img.shields.io/badge/For_Help-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=green'/></a>
 
 2.𝗗𝗲𝗽𝗼𝗹𝘆𝗺𝗲𝗻𝘁 𝗦𝗲𝗰𝘁𝗶𝗼𝗻
-
-<b><Funny>Depo<summary><a src='https://img.shields.io/badge/For_Help-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=green'/></a></summary><br>
-
-## CONTACT OWNER
-
-##Alem 🙂 
 
 </details>
 
