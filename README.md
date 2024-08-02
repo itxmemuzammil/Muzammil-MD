@@ -29,6 +29,8 @@ Hehe
 
 How TO Get Session ID- [Watch Video](😀🌞) Toutril Video
 
+</details>
+
 <b><details><summary>𝐃𝐄𝐏𝐎𝐋𝐘𝐌𝐄𝐍𝐓 𝐒𝐄𝐂𝐓𝐈𝐎𝐍</summary><br>
 Hehe
 </details>
