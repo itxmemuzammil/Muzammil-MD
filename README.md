@@ -10,7 +10,7 @@
 
 <b><details><summary>𝐎𝐖𝐍𝐄𝐑</summary><br>
 
-<a href='https://wa.link/mja069' target="_blank"><img alt='Whatsapp Contect' src='https://img.shields.io/badge/Whatsapp_Contect-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
+<a href='https://wa.link/mja069' target="_blank"><img alt='Whatsapp Contect' src='https://img.shields.io/badge/Whatsapp_Contect-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=green&color=green'/></a>
 
 <a href='https://github.com/itxmemuzammil/Muzammil-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/YouTube Channel-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=red&color=red'/></a>
 
