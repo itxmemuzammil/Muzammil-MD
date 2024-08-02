@@ -8,7 +8,7 @@
 
 <b><details><summary>𝐌𝐄𝐍𝐔</summary><br>
 
-[![Venocyber tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝐌𝐮𝐳𝐚𝐦𝐦𝐢𝐥+-+𝐌𝐃)]
+![Venocyber tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝐌𝐮𝐳𝐚𝐦𝐦𝐢𝐥+-+𝐌𝐃)
 
 <b><details><summary>𝐎𝐖𝐍𝐄𝐑</summary><br>
 
@@ -52,7 +52,3 @@ Hehe
 </details>
 
 </details>
-
-[![Venocyber tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝐌𝐮𝐳𝐚𝐦𝐦𝐢𝐥+-+𝐌𝐃)]
-
-
