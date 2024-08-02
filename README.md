@@ -27,7 +27,7 @@
 
 <a href='https://wa.link/rly9hl' target="_blank"><img alt='For Help' src='https://img.shields.io/badge/For_Help-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=green'/></a>
 
-How TO Get Session ID- [Click here](https://github.com/itxmemuzammil/Muzammil-MD/fork) Toutril Video
+How TO Get Session ID- [Watch Video](😀🌞) Toutril Video
 
 </details>
 
