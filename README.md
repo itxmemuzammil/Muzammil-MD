@@ -26,7 +26,7 @@
 
 2.𝗗𝗲𝗽𝗼𝗹𝘆𝗺𝗲𝗻𝘁 𝗦𝗲𝗰𝘁𝗶𝗼𝗻
 
-<b><details><summary>𝗦𝗢𝗖𝗜𝗔𝗟 𝗧𝗬𝗣𝗘𝗦</summary><br>
+<b><details><summary><a href='https://wa.link/rly9hl' target="_blank"><img alt='For Help' src='https://img.shields.io/badge/For_Help-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=green'/></a></summary><br>
 
 ## CONTACT OWNER
 
