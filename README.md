@@ -26,7 +26,7 @@
 
 2.𝗗𝗲𝗽𝗼𝗹𝘆𝗺𝗲𝗻𝘁 𝗦𝗲𝗰𝘁𝗶𝗼𝗻
 
-<b><details><summary><a src='https://img.shields.io/badge/For_Help-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=green'/></a></summary><br>
+<b><details>Depo<summary><a src='https://img.shields.io/badge/For_Help-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=green'/></a></summary><br>
 
 ## CONTACT OWNER
 
