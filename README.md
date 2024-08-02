@@ -9,7 +9,7 @@
 <b><details><summary>𝐌𝐄𝐍𝐔</summary><br>
 
 <b><details><summary>𝐎𝐖𝐍𝐄𝐑</summary><br>
-
+Hehe
 </details>
 
 <b><details><summary>𝐅𝐎𝐑𝐊 𝐓𝐇𝐈𝐒 𝐑𝐄𝐏𝐎</summary><br>
@@ -28,6 +28,14 @@
 <a href='https://wa.link/rly9hl' target="_blank"><img alt='For Help' src='https://img.shields.io/badge/For_Help-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=green'/></a>
 
 How TO Get Session ID- [Watch Video](😀🌞) Toutril Video
+
+<b><details><summary>𝐃𝐄𝐏𝐎𝐋𝐘𝐌𝐄𝐍𝐓 𝐒𝐄𝐂𝐓𝐈𝐎𝐍</summary><br>
+Hehe
+</details>
+
+<b><details><summary>𝐇𝐄𝐋𝐏 𝐒𝐄𝐂𝐓𝐈𝐎𝐍</summary><br>
+Hehe
+</details>
 
 </details>
 
