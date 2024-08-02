@@ -8,8 +8,6 @@
 
 <b><details><summary>𝐌𝐄𝐍𝐔</summary><br>
 
-</details>
-
 <b><details><summary>𝐎𝐖𝐍𝐄𝐑</summary><br>
 
 </details>
@@ -44,4 +42,4 @@ Hi
 
 </details>
 
-Alem
+
